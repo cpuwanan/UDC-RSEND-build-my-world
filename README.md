@@ -1,2 +1,5 @@
-# udc-rsend-build-my-world
-Build my world
+# Build My World
+
+## Contents
+* Building model in gazebo
+* Example usage of gazebo plugin
